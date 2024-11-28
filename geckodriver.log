@@ -1,0 +1,729 @@
+1732524800808	geckodriver	INFO	Listening on 127.0.0.1:42701
+1732524800936	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilevaHvil"
+1732524801528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732524801528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732524801528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732524801528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://62b7bca4-0966-4075-a0ad-182df1d54426/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732524803520	Marionette	INFO	Listening on port 41317
+1732524803578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732524882207	Marionette	INFO	Stopped listening on port 41317
+1732526026028	geckodriver	INFO	Listening on 127.0.0.1:42640
+1732526026072	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilea7ySRZ"
+1732526026604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732526026605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732526026605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732526026605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4b97e968-5030-4597-baa2-903cac1ab59d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732526028419	Marionette	INFO	Listening on port 42838
+1732526028496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732526125100	Marionette	INFO	Stopped listening on port 42838
+1732526130706	geckodriver	INFO	Listening on 127.0.0.1:44948
+1732526130779	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileveVaYA"
+1732526131373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732526131374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732526131374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732526131374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5620a93f-5da9-4393-ad1a-55cc1e78ac37/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732526133193	Marionette	INFO	Listening on port 42040
+1732526133215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+[Parent 11037, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11037, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732526280540	Marionette	INFO	Stopped listening on port 42040
+1732526285836	geckodriver	INFO	Listening on 127.0.0.1:48650
+1732526285879	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilemdv6ay"
+1732526286346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732526286346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732526286346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732526286347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://19885983-0c9c-43d6-ab38-ae04f6b17b01/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732526288176	Marionette	INFO	Listening on port 44357
+1732526288202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732526344078	Marionette	INFO	Stopped listening on port 44357
+1732526489872	geckodriver	INFO	Listening on 127.0.0.1:44773
+1732526490043	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileqpCkIo"
+1732526490525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732526490525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732526490526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732526490526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3375d407-e08a-4e80-9eb7-f33413d94683/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732526492330	Marionette	INFO	Listening on port 35063
+1732526492375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732534108525	Marionette	INFO	Stopped listening on port 35063
+1732542578425	geckodriver	INFO	Listening on 127.0.0.1:51903
+1732542578700	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileD7noHU"
+1732542579157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732542579157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732542579157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732542579158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://29484a9a-0f7c-4eb4-a6f6-8eaa7b2da96d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732542581076	Marionette	INFO	Listening on port 45603
+1732542581162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+[Parent 16947, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732542755507	Marionette	INFO	Stopped listening on port 45603
+1732542784894	geckodriver	INFO	Listening on 127.0.0.1:46493
+1732542784934	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileyBnxjd"
+1732542785409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732542785409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732542785409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732542785409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://151722c2-7038-4734-9519-112446ee86f3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732542787223	Marionette	INFO	Listening on port 35058
+1732542787327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+1732542864646	Marionette	INFO	Stopped listening on port 35058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17274, Gecko_IOThread] WARNING: pipe error (130): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732543155240	geckodriver	INFO	Listening on 127.0.0.1:42647
+1732543155280	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilebcE7vT"
+1732543155724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732543155724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732543155725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732543155725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f37a3178-0234-4540-801c-e9c8e21457a4/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732543157575	Marionette	INFO	Listening on port 38231
+1732543157658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+1732543175791	Marionette	INFO	Stopped listening on port 38231
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732543287716	geckodriver	INFO	Listening on 127.0.0.1:35589
+1732543287765	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileXKBO18"
+1732543288250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732543288251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732543288251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732543288251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://09f6dd07-2a2b-4c0f-a586-ac81e44e2aed/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732543290046	Marionette	INFO	Listening on port 36476
+1732543290136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+1732543304938	Marionette	INFO	Stopped listening on port 36476
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732543390076	geckodriver	INFO	Listening on 127.0.0.1:55503
+1732543390117	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileQMw4yD"
+1732543390584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732543390584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732543390585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732543390585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c7e99039-03e0-413a-95a1-3f2354743420/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732543392337	Marionette	INFO	Listening on port 39398
+1732543392401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+1732543410998	Marionette	INFO	Stopped listening on port 39398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18216, Gecko_IOThread] WARNING: pipe error (130): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732543483159	geckodriver	INFO	Listening on 127.0.0.1:53065
+1732543483199	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileb0Rvli"
+1732543483659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732543483659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732543483660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732543483660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://70fe2ab1-8c1f-40f4-a5d6-cf7fd7315301/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732543485425	Marionette	INFO	Listening on port 36132
+1732543485466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+1732543499954	Marionette	INFO	Stopped listening on port 36132
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18483, Gecko_IOThread] WARNING: pipe error (125): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732543607791	geckodriver	INFO	Listening on 127.0.0.1:60483
+1732543607830	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilejFQkqv"
+1732543608284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732543608284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732543608284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732543608284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://717f22ac-75ac-45e7-9421-bae7d4493449/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732543609922	Marionette	INFO	Listening on port 44558
+1732543609992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+1732543625095	Marionette	INFO	Stopped listening on port 44558
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732543698445	geckodriver	INFO	Listening on 127.0.0.1:60696
+1732543698484	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileGFqVDy"
+1732543698917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732543698917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732543698918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732543698918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b400d274-2243-455e-b8e6-828d475b131f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732543700694	Marionette	INFO	Listening on port 41189
+1732543700757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+1732543716353	Marionette	INFO	Stopped listening on port 41189
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732543796141	geckodriver	INFO	Listening on 127.0.0.1:36655
+1732543796180	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofile8fnQDE"
+1732543796621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732543796621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732543796622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732543796622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://70a8f833-83de-45b3-9e85-42f6391bdc49/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732543798346	Marionette	INFO	Listening on port 41591
+1732543798360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+1732543813717	Marionette	INFO	Stopped listening on port 41591
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732543870520	geckodriver	INFO	Listening on 127.0.0.1:54400
+1732543870565	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileLNu3yj"
+1732543871039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732543871040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732543871040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732543871040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0e92246d-fd00-4c8d-ae99-ec172823f70f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732543872848	Marionette	INFO	Listening on port 40464
+1732543872931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?smuno6, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+1732543884835	Marionette	INFO	Stopped listening on port 40464
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732690079976	geckodriver	INFO	Listening on 127.0.0.1:48219
+1732690080275	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileZoGmTO"
+1732690080967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732690080967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732690080967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732690080967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://44f4222b-b228-4357-84c9-0e3de879cdfc/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732690082968	Marionette	INFO	Listening on port 43411
+1732690083010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+[Parent 4355, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1A0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732690244847	Marionette	INFO	Stopped listening on port 43411
+1732690407583	geckodriver	INFO	Listening on 127.0.0.1:42401
+1732690407721	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofile6ADiVK"
+1732690408216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732690408216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732690408216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732690408216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d16966ee-e352-406f-b337-cac351238845/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732690410324	Marionette	INFO	Listening on port 39427
+1732690410361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732690510212	Marionette	INFO	Stopped listening on port 39427
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732690740911	geckodriver	INFO	Listening on 127.0.0.1:49379
+1732690741034	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileqnQNGn"
+1732690741496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732690741496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732690741497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732690741497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://15a08c2c-a26d-48ec-89ba-5718f7822341/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732690743454	Marionette	INFO	Listening on port 44405
+1732690743471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732690833532	Marionette	INFO	Stopped listening on port 44405
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5210, Gecko_IOThread] WARNING: pipe error (128): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732691632311	geckodriver	INFO	Listening on 127.0.0.1:42719
+1732691632396	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileTNzxRz"
+1732691632901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732691632902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732691632902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732691632902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e09783d6-507e-47c0-89a7-62c3e88117e5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732691634961	Marionette	INFO	Listening on port 34056
+1732691635050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732691749100	Marionette	INFO	Stopped listening on port 34056
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732692057295	geckodriver	INFO	Listening on 127.0.0.1:41226
+1732692057553	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilep80mNI"
+1732692058021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732692058021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732692058021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732692058021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c0189dfe-70a6-44b5-9ea5-1f63fb8c5ca9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732692059817	Marionette	INFO	Listening on port 33445
+1732692059895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732692149356	Marionette	INFO	Stopped listening on port 33445
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732693216470	geckodriver	INFO	Listening on 127.0.0.1:57712
+1732693216681	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileMuXNfB"
+1732693217169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732693217169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732693217169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732693217169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://07668144-d1bb-43b8-8f45-1c935d4aba59/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732693219123	Marionette	INFO	Listening on port 37080
+1732693219207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732693398831	Marionette	INFO	Stopped listening on port 37080
+1732693429999	geckodriver	INFO	Listening on 127.0.0.1:43755
+1732693430203	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileuebUC2"
+1732693430665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732693430666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732693430666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732693430666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b6e79886-4b54-4265-8bd2-712c27e8b6b1/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732693432455	Marionette	INFO	Listening on port 33736
+1732693432525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+[Parent 7053, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732693562577	Marionette	INFO	Stopped listening on port 33736
+1732693828233	geckodriver	INFO	Listening on 127.0.0.1:58073
+1732693828823	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileFyTf2s"
+1732693830139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732693830139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732693830140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732693830140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://200f1e00-4aab-4eff-8288-87a48f3e57f9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732693834434	Marionette	INFO	Listening on port 43553
+1732693834502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732693919851	Marionette	INFO	Stopped listening on port 43553
+[Parent 7493, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732694028841	geckodriver	INFO	Listening on 127.0.0.1:54556
+1732694028945	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileb43Ykb"
+1732694029526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732694029526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732694029527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732694029527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://be6a716f-3025-4e79-88ad-f2a6f28c4952/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732694031618	Marionette	INFO	Listening on port 33355
+1732694031684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732694166943	Marionette	INFO	Stopped listening on port 33355
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732694446502	geckodriver	INFO	Listening on 127.0.0.1:34475
+1732694446589	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileTHFPBL"
+1732694447074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732694447075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732694447075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732694447075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://cbfd3d72-6665-47f4-8dc5-633c1e1533e3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732694449102	Marionette	INFO	Listening on port 38199
+1732694449124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732694519105	Marionette	INFO	Stopped listening on port 38199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732694581274	geckodriver	INFO	Listening on 127.0.0.1:50260
+1732694581391	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofile0ryg5A"
+1732694581908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732694581909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732694581909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732694581909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ac52ae47-a0e2-4f4d-9659-c4d60b6c0fe3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732694583776	Marionette	INFO	Listening on port 32775
+1732694583819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732694669805	Marionette	INFO	Stopped listening on port 32775
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732695129864	geckodriver	INFO	Listening on 127.0.0.1:35722
+1732695130054	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileLLNJVW"
+1732695130529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732695130529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732695130529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732695130529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://51124295-5213-4fb6-9c0e-939a4594d5ae/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732695132322	Marionette	INFO	Listening on port 34486
+1732695132379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732695202106	Marionette	INFO	Stopped listening on port 34486
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732695347649	geckodriver	INFO	Listening on 127.0.0.1:59072
+1732695347799	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilemwWEDD"
+1732695348304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732695348305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732695348305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732695348305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://6b99842b-3c02-42b5-a402-96955252b8ed/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732695350174	Marionette	INFO	Listening on port 45814
+1732695350227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732696086915	geckodriver	INFO	Listening on 127.0.0.1:37939
+1732696086959	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileZMIeL0"
+1732696087531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732696087531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732696087532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732696087532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8e231fbb-15c9-42e9-a688-7ab604014e5f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732696089791	Marionette	INFO	Listening on port 42138
+1732696089912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732696092185	Marionette	INFO	Stopped listening on port 45814
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732696419276	Marionette	INFO	Stopped listening on port 42138
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732696756011	geckodriver	INFO	Listening on 127.0.0.1:37959
+1732696756198	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileqiUKwv"
+1732696756821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732696756821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732696756821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732696756821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0686d345-23d3-4bc2-b562-4739ccd5150c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732696758779	Marionette	INFO	Listening on port 44777
+1732696758831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+[Parent 10113, Gecko_IOThread] WARNING: pipe error (130): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732697140208	Marionette	INFO	Stopped listening on port 44777
+1732697374579	geckodriver	INFO	Listening on 127.0.0.1:58709
+1732697374691	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilev2MfwG"
+1732697375161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732697375161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732697375161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732697375161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5ea95e50-03c4-4237-8bb0-e72d914472f9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732697376961	Marionette	INFO	Listening on port 33741
+1732697377021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x52000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732697796979	Marionette	INFO	Stopped listening on port 33741
+1732700837935	geckodriver	INFO	Listening on 127.0.0.1:53751
+1732700839304	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofile3DhkR5"
+1732700840025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732700840025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732700840025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732700840026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://274ebf2f-4b20-415a-9db4-0b059515d0ea/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732700842292	Marionette	INFO	Listening on port 43323
+1732700842346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732701503030	Marionette	INFO	Stopped listening on port 43323
+1732701509253	geckodriver	INFO	Listening on 127.0.0.1:43812
+1732701509463	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileQjGnWe"
+1732701510041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732701510042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732701510042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732701510042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b66fd0b4-9a9b-4199-801a-24308a557532/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732701512085	Marionette	INFO	Listening on port 37925
+1732701512183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732701951422	Marionette	INFO	Stopped listening on port 37925
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732704049516	geckodriver	INFO	Listening on 127.0.0.1:45823
+1732704049604	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileF5JGpq"
+1732704050147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732704050147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732704050147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732704050147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://98b028a8-dfd3-480b-a171-8ed28da7e4ba/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732704052236	Marionette	INFO	Listening on port 42256
+1732704052337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732704155017	Marionette	INFO	Stopped listening on port 42256
+1732704346917	geckodriver	INFO	Listening on 127.0.0.1:44531
+1732704347014	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofile98BNbh"
+1732704347494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732704347494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732704347494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732704347495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://cc34f590-0cf7-42d3-8e2b-7cadddff0190/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732704349362	Marionette	INFO	Listening on port 34817
+1732704349432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+[Parent 5429, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732704523722	Marionette	INFO	Stopped listening on port 34817
+1732704570957	geckodriver	INFO	Listening on 127.0.0.1:48205
+1732704571021	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileVjJOJN"
+1732704571541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732704571541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732704571541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732704571542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0c81e5d8-127d-4b29-8d58-95b3d5885536/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732704573329	Marionette	INFO	Listening on port 40969
+1732704573352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+[Parent 5693, Gecko_IOThread] WARNING: pipe error (132): Connection reset by peer: file /builddir/build/BUILD/firefox-68.11.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732705119397	Marionette	INFO	Stopped listening on port 40969
+1732706018579	geckodriver	INFO	Listening on 127.0.0.1:57188
+1732706018623	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilewIWtMo"
+1732706019108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732706019108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732706019109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732706019109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4a186a32-8106-46ce-bc53-4180faa5b896/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732706020939	Marionette	INFO	Listening on port 42259
+1732706020955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732706177389	Marionette	INFO	Stopped listening on port 42259
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732706311072	geckodriver	INFO	Listening on 127.0.0.1:59924
+1732706311451	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofilebUvwcf"
+1732706311936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732706311937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732706311937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732706311937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0b673e9b-ac47-46ba-bd0e-08e347b7eb45/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732706313686	Marionette	INFO	Listening on port 39785
+1732706313781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732706562569	Marionette	INFO	Stopped listening on port 39785
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1732706970482	geckodriver	INFO	Listening on 127.0.0.1:53199
+1732706970525	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofileAbmGQ0"
+1732706970989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732706970989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732706970990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732706970990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://bb5b2e90-a2d6-4d63-ad94-fb59704c7204/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732706972710	Marionette	INFO	Listening on port 43767
+1732706972744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732707221863	Marionette	INFO	Stopped listening on port 43767
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1732707560047	geckodriver	INFO	Listening on 127.0.0.1:47460
+1732707560096	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "--start-maximized" "-no-remote" "-profile" "/tmp/rust_mozprofiletigaie"
+1732707560573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1732707560574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1732707560574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1732707560574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://93bc1ff4-49a7-443f-a938-6f5f773a18cb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1732707562523	Marionette	INFO	Listening on port 42267
+1732707562539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/custom/csm_cta/js/gate-override.js?v=1.x, line 20: SyntaxError: expected expression, got '?'
+JavaScript error: https://www.commonsensemedia.org/modules/contrib/google_tag/js/gtm.js?snkj7f, line 11: SyntaxError: expected expression, got '?'
+1732707812293	Marionette	INFO	Stopped listening on port 42267
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 352: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
